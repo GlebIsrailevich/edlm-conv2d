@@ -1,0 +1,10 @@
+{
+    "name": "sparse_struct_lenet_kernel5_bs64",
+    "batch_size": 64,
+    "avg_forward": 0.000968450991047644,
+    "avg_backward": 0.0024344808069042146,
+    "avg_forward_mem": 2.767875339673913,
+    "avg_backward_mem": 25.112089893702045,
+    "kernel_size": 5,
+    "acc": 10.0
+}

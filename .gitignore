@@ -1,0 +1,11 @@
+sparsification
+quantization
+data
+__pycache__
+lenet
+lenet_cifar10_img2col.pth
+lenet_cifar10.pth
+lenet_conv2im.ipynb
+lenet_train.ipynb
+lenet.py
+gpu_tests

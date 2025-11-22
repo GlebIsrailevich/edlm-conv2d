@@ -1,0 +1,10 @@
+{
+    "name": "lenet_quantized",
+    "batch_size": 64,
+    "avg_forward": 0.0044332273350381445,
+    "avg_backward": 0.003022412544758352,
+    "avg_forward_mem": 31.891325577445652,
+    "avg_backward_mem": 69.82319598185742,
+    "kernel_size": 5,
+    "acc": 43.03
+}

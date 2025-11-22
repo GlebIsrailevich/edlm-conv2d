@@ -1,0 +1,10 @@
+{
+    "name": "sparse_struct_lenet_kernel7_bs8",
+    "batch_size": 4,
+    "avg_forward": 0.0009677861859196218,
+    "avg_backward": 0.001294294148879826,
+    "avg_forward_mem": 0.17724609375,
+    "avg_backward_mem": 18.099609375,
+    "kernel_size": 7,
+    "acc": 10.0
+}

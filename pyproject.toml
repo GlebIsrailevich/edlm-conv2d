@@ -1,0 +1,15 @@
+[project]
+name = "EDLM"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "GlebIsrailevich", email = "glebusai308@gmail.com"},
+]
+dependencies = ["ipykernel>=7.1.0", "torchvision>=0.24.0", "tqdm>=4.67.1", "matplotlib>=3.10.7", "torchviz>=0.0.3", "pandas>=2.3.3"]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false

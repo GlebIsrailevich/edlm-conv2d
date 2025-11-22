@@ -1,0 +1,10 @@
+{
+    "name": "lenet_gemm",
+    "batch_size": 4,
+    "avg_forward": 0.0009276219655990826,
+    "avg_backward": 0.0012747252692817347,
+    "avg_forward_mem": 1.853515625,
+    "avg_backward_mem": 21.86181640625,
+    "kernel_size": 7,
+    "acc": 9.67
+}

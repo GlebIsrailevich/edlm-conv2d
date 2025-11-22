@@ -1,0 +1,10 @@
+{
+    "name": "sparse_lenet",
+    "batch_size": 256,
+    "avg_forward": 0.007882693831633987,
+    "avg_backward": 0.0023103191785706916,
+    "avg_forward_mem": 46.71425581951531,
+    "avg_backward_mem": 76.4910888671875,
+    "kernel_size": 3,
+    "acc": 10.88
+}
